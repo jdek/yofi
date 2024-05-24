@@ -6,6 +6,7 @@
 - Add flag to hide input bar.
 - Adaptive height config option.
 - Quit on outer region click.
+- yofi.toml is now supported.
 
 ## Changes
 
