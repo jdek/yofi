@@ -13,6 +13,7 @@
 - Log to stderr instead of stdout.
 - Prefer earlier match with same score for input search.
 - Empty subitems now hidden.
+- yofi.config is deprecated.
 
 ## Fixes
 
